@@ -6,8 +6,8 @@ import ejs from 'ejs';
 import path from 'path';
 
 AWS.config.update({
-    accessKeyId: 'AKIAWV57NLBIHZZURXNI',
-    secretAccessKey: '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',
+    accessKeyId: 'HIDDENI', //hidden for security
+    secretAccessKey: 'HIDDEN', //hidden for security
     region: 'us-east-2',
 });
 
