@@ -1,0 +1,49 @@
+html{
+  background-color: white;
+}
+
+.event-img{
+  position: static;
+  width: 50%;
+  margin-top: 10px;
+}
+
+body{
+  background-color: #000;
+  border: 5px solid cyan;
+}
+
+.Form-Container{
+  display: block;
+  margin-left: 33%;
+  overflow-y: visible;
+  width: 33%;
+}
+
+form{
+  color: cyan;
+}
+
+.header{
+  display: grid;
+  justify-items: center;
+  color: cyan;
+
+}
+.header>p{
+  position: grid;
+  font-size: 18px;
+}
+
+.Form-Container label{
+  display: block;
+  margin-bottom: 8px;
+}
+
+.emails-input-field {
+  white-space: pre-wrap; /* Preserve whitespace and wrap lines */
+  resize: vertical;
+  max-height: none;;
+}
+
+
